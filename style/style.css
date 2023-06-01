@@ -1,0 +1,33 @@
+.music-player {
+  max-width: 760px;
+  margin: 0 auto;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.song-list {
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.play-btn,
+.pause-btn,
+.skip-btn,
+download-btn {
+  margin-right: 10px;
+}
+
+.volume-slider {
+  width: 100px;
+}
+
+.scrolling-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
