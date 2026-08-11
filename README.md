@@ -1,4 +1,4 @@
 # musicplayer
 
-prueba.
-problemas con el javascript, no funciona
+Prueba.
+Problemas con el javascript, no funciona del todo.
